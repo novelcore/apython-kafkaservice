@@ -1,2 +1,2 @@
-# apython-kafkaservice
-Test repo created with kubecore github agent
+# Kafka Template
+This is a sample Kafka template.
